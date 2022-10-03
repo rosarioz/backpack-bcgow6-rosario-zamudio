@@ -12,8 +12,8 @@ func main() {
 	letras := strings.Split(palabra, "")
 
 
-	for i, letra:= range letras{
-		fmt.Println(i, letra)
+	for _, letra:= range letras{
+		fmt.Println(letra)
 	}
 
 
