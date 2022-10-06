@@ -1,0 +1,66 @@
+[
+    {
+     "Id": 1,
+     "TransactionCode": "a1",
+     "Coin": "peso",
+     "Amount": 1000,
+     "IssuingCompany": "Banco Galicia",
+     "Receiver": "Juan Perez",
+     "TransactionDate": "1-1-2022"
+    },
+    {
+     "Id": 2,
+     "TransactionCode": "a2",
+     "Coin": "peso",
+     "Amount": 1570,
+     "IssuingCompany": "Banco Galicia",
+     "Receiver": "Maria Garcia",
+     "TransactionDate": "2-1-2022"
+    },
+    {
+     "Id": 3,
+     "TransactionCode": "a3",
+     "Coin": "dolar",
+     "Amount": 100,
+     "IssuingCompany": "Banco Santander",
+     "Receiver": "Pedro Gomez",
+     "TransactionDate": "2-1-2022"
+    },
+    {
+     "Id": 4,
+     "TransactionCode": "a4",
+     "Coin": "dolar",
+     "Amount": 2400,
+     "IssuingCompany": "Banco Galicia",
+     "Receiver": "Daniela Bustos",
+     "TransactionDate": "3-1-2022"
+    },
+    {
+     "Id": 5,
+     "TransactionCode": "a5",
+     "Coin": "peso",
+     "Amount": 145000,
+     "IssuingCompany": "Mercado Pago",
+     "Receiver": "Juan Perez",
+     "TransactionDate": "5-1-2022"
+    },
+    {
+     "Id": 6,
+     "TransactionCode": "a6",
+     "Coin": "dolar",
+     "Amount": 1000,
+     "IssuingCompany": "Banco Galicia",
+     "Receiver": "Maria Garcia",
+     "TransactionDate": "7-1-2022"
+    },
+    {
+     "Id": 7,
+     "TransactionCode": "a7",
+     "Coin": "dolar",
+     "Amount": 1065,
+     "IssuingCompany": "Banco Galicia",
+     "Receiver": "Francisco Apellido",
+     "TransactionDate": "7-1-2022"
+    }
+   ]
+   

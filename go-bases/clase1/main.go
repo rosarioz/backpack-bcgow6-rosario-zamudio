@@ -13,6 +13,17 @@ func main() {
 
 
 
+	
+
+	
+
+	// ejercicio 2
+	nombre := "Rosario Zamudio"
+	direccion := "La Pampa 2532 Oeste, San Juan"
+
+	fmt.Println("mi nombre es: " + nombre + " y vivo en: " + direccion)
+
+	//EJ 3
 	//var nombre string
   	//var apellido int
   	//var int edad
@@ -21,17 +32,13 @@ func main() {
   	//var estaturaDeLaPersona int
   	//var cantidadDeHijos = 2
 
+	//EJ 4
 	//var apellido string = "Gomez"
   	//var edad int = 35
   	//boolean := false
   	//var sueldo string = "45857.90"
   	//var nombre string = "Julián"
 
-	// ejercicio 2
-	nombre := "Rosario Zamudio"
-	direccion := "La Pampa 2532 Oeste, San Juan"
-
-	fmt.Println("mi nombre es: " + nombre + " y vivo en: " + direccion)
 
 
 
